@@ -39,8 +39,8 @@
         "What do you sell?"
       ],
       "responses": [
-        "We sell coffee and tea",
-        "We have coffee and tea"
+        "We sell Books",
+        "We have Books"
       ]
     },
     {
@@ -52,20 +52,17 @@
         "Are you cash only?"
       ],
       "responses": [
-        "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We currently accept cash only (Cause we dont know how -_-)"
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "Help",
       "patterns": [
-        "How long does delivery take?",
-        "How long does shipping take?",
-        "When do I get my delivery?"
+        "How does this website work",
+        "How do i use this"
       ],
       "responses": [
-        "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "This Website is a pos system for Libary you can sell or burrow books to Customers or do some analaytic checks or inventory checks"
       ]
     },
     {
